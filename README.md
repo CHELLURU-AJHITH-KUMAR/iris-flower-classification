@@ -32,12 +32,12 @@ Before training, I performed a detailed analysis to understand the data distribu
 1. Pairplot Visualization
 I used a Pairplot to visualize relationships between all features.
 Key Insight: The Iris Setosa species (shown in blue/pink) is linearly separable from the other two species, making it very easy for the model to identify.
-(**Note**: Replace this path with your actual image file)
+
 
 2. Correlation Heatmap
 A heatmap was generated to identify highly correlated features.
 *Key Insight: Petal Length and Petal Width have a correlation of 0.96, indicating they provide very similar information to the model.
-(**Note**: Replace this path with your actual image file)
+
 
 -------------
 
