@@ -38,6 +38,7 @@ Key Insight: The Iris Setosa species (shown in blue/pink) is linearly separable 
 2. Correlation Heatmap
 A heatmap was generated to identify highly correlated features.
 *Key Insight: Petal Length and Petal Width have a correlation of 0.96, indicating they provide very similar information to the model.
+<img width="745" height="636" alt="image" src="https://github.com/user-attachments/assets/b29562a4-6e41-4ca8-b187-f80d41da24ee" />
 
 
 -------------
