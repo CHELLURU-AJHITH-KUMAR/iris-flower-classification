@@ -56,13 +56,13 @@ A heatmap was generated to identify highly correlated features.
 # Results
 The model achieved high accuracy on the test set due to the distinct nature of the dataset.
 
-Accuracy Score: 1.0 (100%)
+Accuracy: 0.967741935483871
 
 Confusion Matrix:
- [[10  0  0]
-  [ 0  9  0]
-  [ 0  0 11]]
-
+ [[11  0  0  0]
+ [ 0 11  0  0]
+ [ 0  0  8  0]
+ [ 0  1  0  0]]
 ----------------
 
  # "Who cares about classifying flowers? A botanist can do that with their eyes."
