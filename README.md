@@ -1,7 +1,7 @@
-**Iris Flower Classification
-![image alt]<img width="1024" height="367" alt="image" src="https://github.com/user-attachments/assets/59bcf9d9-84b6-4f36-a71c-4d4be8d9ec74" />
+**Iris Flower Classification**
+<img width="1024" height="367" alt="image" src="https://github.com/user-attachments/assets/59bcf9d9-84b6-4f36-a71c-4d4be8d9ec74" />
 
-**# Project Overview
+# Project Overview
 This project is a classic supervised Machine Learning task that focuses on Pattern Recognition. The goal is to train a model to classify Iris flowers into three distinct species (Setosa, Versicolor, and Virginica) based on their morphological measurements.
 While the subject is flowers, the underlying logic demonstrates the core principles of classification algorithms used in finance (fraud detection), healthcare (diagnosis), and email filtering (spam detection).
 
